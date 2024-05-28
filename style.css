@@ -29,3 +29,10 @@ body {
     height: 100vh;
     display: grid;
 }
+
+
+
+.botao_secundario {
+    background-color: transparent;
+    border: 2px solid var(--branco-principal)
+}
