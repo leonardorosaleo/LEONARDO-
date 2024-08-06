@@ -1,0 +1,12 @@
+<body>
+    <header class="cabeçalho">
+        <span class="cabeçalho__menu-hamburguer"></span>
+        <img src="img/Logo.svg" alt="Logo da AluraBooks">
+    </header>
+</body>
+@import url("styles/header.css");
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
