@@ -16,4 +16,11 @@ header.css
 
 .container__imagem {
     padding: 1em;
+}style.css
+
+@import url("styles/header.css");
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
